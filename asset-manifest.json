@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ravi-session/static/css/main.fd8f9aee.chunk.css",
+    "main.js": "/ravi-session/static/js/main.eb7bd5a1.chunk.js",
+    "main.js.map": "/ravi-session/static/js/main.eb7bd5a1.chunk.js.map",
+    "runtime-main.js": "/ravi-session/static/js/runtime-main.3390d33b.js",
+    "runtime-main.js.map": "/ravi-session/static/js/runtime-main.3390d33b.js.map",
+    "static/css/2.de424728.chunk.css": "/ravi-session/static/css/2.de424728.chunk.css",
+    "static/js/2.9bf13279.chunk.js": "/ravi-session/static/js/2.9bf13279.chunk.js",
+    "static/js/2.9bf13279.chunk.js.map": "/ravi-session/static/js/2.9bf13279.chunk.js.map",
+    "index.html": "/ravi-session/index.html",
+    "precache-manifest.cb6556d0b554940a073ccbb8d80a1a19.js": "/ravi-session/precache-manifest.cb6556d0b554940a073ccbb8d80a1a19.js",
+    "service-worker.js": "/ravi-session/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/ravi-session/static/css/2.de424728.chunk.css.map",
+    "static/css/main.fd8f9aee.chunk.css.map": "/ravi-session/static/css/main.fd8f9aee.chunk.css.map",
+    "static/js/2.9bf13279.chunk.js.LICENSE.txt": "/ravi-session/static/js/2.9bf13279.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/ravi-session/static/media/img1.63de6e45.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3390d33b.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.9bf13279.chunk.js",
+    "static/css/main.fd8f9aee.chunk.css",
+    "static/js/main.eb7bd5a1.chunk.js"
+  ]
+}
